@@ -1,0 +1,32 @@
+div1{
+    text-align: center;
+    font-size: 50px;
+    border: 900px;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+h3{
+  
+  background-color: antiquewhite; 
+  text-align: center;
+  font-size: 35px"
+}
+.p2{
+    text-align: left;
+    background-color: white;
+    font-family: cursive;
+}
+button{
+    border-color: red;
+    border-radius: 20px;
+    background-color: green;
+}
+.h41{
+    border: black 2px;
+    outline: 5px;
+}
+.p3{ text-align: right;
+    background-color: bisque;
+    }
+
+    
